@@ -1,0 +1,16 @@
+[project]
+name = "mini-banker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "pip>=24.3.1",
+    "wget>=3.2",
+    "unstructured-ingest>=0.3.12",
+    "faiss-cpu>=1.9.0.post1",
+    "dspy>=2.5.43",
+    "pymupdf>=1.25.1",
+    "tqdm>=4.67.1",
+]
